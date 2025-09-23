@@ -35,19 +35,15 @@ A full-stack **food delivery platform** built with **React.js, Node.js, Express,
 
 ---
 
-🏗️ Tech Stack
+### 🏗️ Tech Stack
 
-Frontend: React.js
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: JWT + Bcrypt
-
-Payments: Stripe
-
-File Uploads: Multer
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT + Bcrypt
+- Payments: Stripe
+- File Uploads: Multer
 
 ---
+
 
