@@ -10,18 +10,6 @@ A full-stack **food delivery platform** built with **React.js, Node.js, Express,
 
 ---
 
-# 🍅 TOMATO - Food Ordering Website  
-
-TOMATO is a **full-stack food ordering platform** built with the **MERN stack**. It provides a user-friendly interface for customers to browse food items, place orders securely, and track them in real time. The platform includes dedicated **User** and **Admin** panels with authentication, payments, and order management.  
-
----
-
-## 🚀 Live Demo  
-- **User Panel:** [View App](https://food-delivery-frontend-s2l9.onrender.com/)  
-- **Admin Panel:** [View Admin Dashboard](https://food-delivery-admin-wrme.onrender.com/)  
-
----
-
 ## ✨ Features  
 
 ### 👤 User Panel  
@@ -62,3 +50,4 @@ Payments: Stripe
 File Uploads: Multer
 
 ---
+
